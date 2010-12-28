@@ -29,7 +29,6 @@ s5 - http://meyerweb.com/eric/tools/s5/
 slidy - http://www.w3.org/Talks/Tools/Slidy2/#(1)
 
 
-
 The original talk was:
 
 "The Pivot" 
