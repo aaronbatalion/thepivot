@@ -4,11 +4,10 @@ CTO & Co-founder
 LivingSocial
 
 == Description 
-s5 is an awesome browser based slide show project. slidy is an JS extension for CSS3 transitions.
+Takahashi-s5 is an extension to s5/slidy to let geeks write presentations easily. 
 
-I've extended the s5/slidy JS/CSS to be Takahashi-method-esque but mostly to be the easiest presentation a geek ever wrote.
 
-#Conventions
+== Conventions
 
 - Each slide is a <div class="slide">
 - Each slide has a background image (class = "background")
@@ -21,8 +20,13 @@ I've extended the s5/slidy JS/CSS to be Takahashi-method-esque but mostly to be 
 - One offs for positioning are done inline.
 
 
+== Create your own
+- Clone the project
+- modify index.html 
+
 
 
 #Credits
+Takahashi Method -  http://en.wikipedia.org/wiki/Takahashi_method
 s5 - http://meyerweb.com/eric/tools/s5/
 slidy - http://www.w3.org/Talks/Tools/Slidy2/#(1)
