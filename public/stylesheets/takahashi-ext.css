@@ -9,6 +9,8 @@ div.toolbar {
 	font-size:1.2em;
 }
 
+div.toolbar-left a {display:none;}
+
 #slide-counter {
 	font-size:2em;
 }
