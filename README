@@ -3,11 +3,23 @@ Aaron Batalion
 CTO & Co-founder
 LivingSocial
 
+== Description 
+s5 is an awesome browser based slide show project. slidy is an JS extension for CSS3 transitions.
 
-s5 extension to support simple slideshows for geeks.
+I've extended the s5/slidy JS/CSS to be Takahashi-method-esque but mostly to be the easiest presentation a geek ever wrote.
 
-1) modify content in index.html
-2) add your own images 
+#Conventions
+
+- Each slide is a <div class="slide">
+- Each slide has a background image (class = "background")
+- 5 classes to position text.  
+ - tr_quote (top right)
+ - tl_quote (top left)
+ - br_quote (bottom right)
+ - bl_quote (bottom left)
+ - c_quote (center)
+- One offs for positioning are done inline.
+
 
 
 
