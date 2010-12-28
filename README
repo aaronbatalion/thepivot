@@ -1,11 +1,14 @@
 Takahashi-s5
 
-== Description 
+Description 
+-----------
 Takahashi-s5 is an extension to s5/slidy to let geeks write presentations easily. 
 
 I wrote this for a talk after getting frustrated with Keynote.
 
-== Conventions
+Conventions
+-----------
+
 - Each slide is a <div class="slide">
 - Each slide has a background image (class = "background")
 - 5 classes to position text.  
@@ -17,21 +20,29 @@ I wrote this for a talk after getting frustrated with Keynote.
 - One offs for positioning are done inline.
 
 
-== Create your own
+Create your own
+-----------
+
 - Clone the project
 - modify index.html 
 
 
 
-== Credits
-Takahashi Method -  http://en.wikipedia.org/wiki/Takahashi_method
-s5 - http://meyerweb.com/eric/tools/s5/
-slidy - http://www.w3.org/Talks/Tools/Slidy2/#(1)
+Credits
+-----------
+The original talk, and hence inline content, was for a talk I gave at Startup Mixology called "The Pivot" 
+
+Startup Mixology - http://startupmixology.techcocktail.com/2010-chicago/
+Youtube Video - http://www.youtube.com/watch?v=O26WoN6qvfw
 
 
-The original talk was:
+Takahashi Method
+http://en.wikipedia.org/wiki/Takahashi_method
 
-"The Pivot" 
-Aaron Batalion
-CTO & Co-founder
-LivingSocial
+s5
+http://meyerweb.com/eric/tools/s5/
+
+slidy
+http://www.w3.org/Talks/Tools/Slidy2/#(1)
+
+
