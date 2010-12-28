@@ -2,3 +2,15 @@
 Aaron Batalion
 CTO & Co-founder
 LivingSocial
+
+
+s5 extension to support simple slideshows for geeks.
+
+1) modify content in index.html
+2) add your own images 
+
+
+
+#Credits
+s5 - http://meyerweb.com/eric/tools/s5/
+slidy - http://www.w3.org/Talks/Tools/Slidy2/#(1)
