@@ -9,6 +9,7 @@ div.toolbar {
 	font-size:1.2em;
 }
 
+
 div.toolbar-left a {display:none;}
 
 #slide-counter {
@@ -54,5 +55,5 @@ div.cover .cover-box h1 { font-size:370%;margin:0px 0px 10px 0px;padding:0px; }
 div.cover .cover-box h2 { font-size:270%;margin:0px 0px 50px 40px;padding:0px; }
 div.cover .cover-box h3 { font-size:200%;margin:21px 0px 0px 0px;padding:0px; text-align:right;}
 
-div.slide .background {opacity:.77;top: 0px; left: 0px; min-height: 950px; width:100%; overflow:hidden; position:fixed; z-index:-1; -moz-user-select: none}
-div.slide .background img {opacity:1;position:absolute; left:0px; top:0px; z-index:-2; min-width: 1200px; min-height:800px;width: 100%}
+div.slide .img_background {opacity:.77;top: 0px; left: 0px; min-height: 950px; width:100%; overflow:hidden; position:fixed; z-index:-1; -moz-user-select: none}
+div.slide .img_background img {opacity:1;position:absolute; left:0px; top:0px; z-index:-2; min-width: 1200px; min-height:800px;width: 100%}
