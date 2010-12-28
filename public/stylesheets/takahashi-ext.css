@@ -16,13 +16,7 @@ div.toolbar {
 
 #eos {display:none;}
 
-#toolbar-logo {
-	height:19px;
-	width:91px;
-	z-index:100;
-	display:block;
-	background:transparent url('images/ls_logo.png') no-repeat top left;}
-}
+
 
 div.slide {padding:2%;clear:both;position:absolute;}
 
